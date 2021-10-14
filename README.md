@@ -23,6 +23,7 @@ Make a Python script for at least 3 of the following exercises:
     For example the value 7 is represented by led3: 0, led2: 1, led1: 1, led0: 1
 
 1. Define a Line class which consists of two Points. Points are defined by x and y coordinate values. Provide a method in the Line class which returns the length of the Line.
+
 1. A definite integral is defined by the area under the function. The Riemann sum is a approximation of this definite integral, by summing the areas of the rectangles which are defined by a chosen delta x. Delta x is the width of the approximate rectangle and the function value f(x) is the length of that rectangle. Write a function which calculates the Riemann sum for a given function for a given interval.
 
     ![Riemann sum example](./assets/riemann.png)
